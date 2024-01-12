@@ -1,5 +1,5 @@
 package org.launchcode;
 
-public class TemperatureException {
+public class TemperatureException extends Temperature {
     // Write code here!
 }

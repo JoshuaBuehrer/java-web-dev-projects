@@ -16,6 +16,11 @@ public class Vinyl extends BaseDisc implements OpticalDisc {
     }
 
     @Override
+    public void laserRead() {
+
+    }
+
+    @Override
     public void stylus() {
         System.out.println("crrrrrrrr ka crrrrrrr pop");
     }
